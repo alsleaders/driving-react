@@ -7,9 +7,9 @@ mapboxgl.accessToken =
 
 class Test2 extends Component {
   state = {
-    lng: 5,
-    lat: 34,
-    zoom: 1.5
+    lng: -82.4572,
+    lat: 27.9506,
+    zoom: 4
   }
 
   componentDidMount() {
